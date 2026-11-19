@@ -85,7 +85,8 @@ and successfully implemented using Verilog HDL.
 
 
 ## OUTPUT
-<img width="1912" height="1023" alt="Screenshot 2026-11-10 141028" src="https://github.com/user-attachments/assets/b9e6888b-5ffe-4921-bee3-a05d94cfd017" />
+<img width="1841" height="909" alt="Screenshot 2026-11-10 141028" src="https://github.com/user-attachments/assets/19d81141-aef2-4067-a7e1-b35b87b3ab4d" />
+
 
 
 
